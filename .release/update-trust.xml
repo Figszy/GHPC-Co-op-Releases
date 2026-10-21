@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GhpcCoopUpdateTrust schema="1" enabled="true">
+  <Repository>Figszy/GHPC-Co-op-Releases</Repository>
+  <RsaModulus>6naSJfH2naTwkLYUlbzClUIsNZPRr28cX0meyQxpO9HTnvYSyETb4kpckllzHBWpLI0guzUcdQakkE/C+lo48TmwDOgXFWUoESfr7Okkn5FxvvqRAFJ/Ep6OSY6RFSWOP1zbnXfe3+f4k0DSIYoRqwwk+CX5gHFruOrnfsee86yhIVrp8+5z90oEIPlFyg6t7WqDaLOJbKuamPFpaDbz4vpu7D6BDGsM9apWuoX+W3d7mVknDKx4LsPt6v7MND6/U065yUL4gMUOqvu1XYubAgP/i8oDFvd8PH+XoJ8EmXNSmFR9/AE+1pYmHNkqd7XzrZejg2mjbec9ZvxOYVBgI/WPgeJtQXqiIg3BjrMukBPal5S6xpsypnDHrgPbImBnOiyd8UR5THsoCjikkasKjwbuMGJR2IE6HjA6o/bXrB3AtY8S4Kq1sklyMghZ0uzT57FLNwMcLSuOzSJRppmjmhyWmqhdrGf+FFlfmSdgwWbbByGjrevxJU/z43fb1ZId</RsaModulus>
+  <RsaExponent>AQAB</RsaExponent>
+</GhpcCoopUpdateTrust>
